@@ -6,10 +6,11 @@ The goal of this project was to create a recommender system that will take a bee
 
 The Data:
 
-56 subcategories of beer
-4964 unique beers
-~88K unique users
-~1.4M user-review pairings
+* 56 subcategories of beer  
+* 4964 unique beers  
+* ~88K unique users  
+* ~1.4M user-review pairings  
+  
 Data was scraped from a popular beer review website: https://www.beeradvocate.com/
 
 Main Tools:
