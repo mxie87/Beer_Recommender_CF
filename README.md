@@ -15,4 +15,4 @@ Data was scraped from a popular beer review website: https://www.beeradvocate.co
 
 Main Tools:  
 Surprise Library - http://surpriselib.com/  
-scikitleran: https://scikit-learn.org/stable/
+scikit-learn: https://scikit-learn.org/stable/
