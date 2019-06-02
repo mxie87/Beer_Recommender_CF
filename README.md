@@ -1,5 +1,4 @@
-# Beer_Recommender_CF
-Beer Recommender System using Collaborative Filtering with Surprise &amp; sk-learn
+NOTE: please use nbviewer to view jupyter notebook files if it does not load. Simply copy the link to the jupyter notebook file, go to this website: https://nbviewer.jupyter.org/ and paste into the box.
 
 ### Beer Recommender System using Collaborative Filtering (item-item similarity)
 The goal of this project was to create a recommender system that will take a beer name as an input and return the top N recommendations based on item similiarity. Content based recommendations was explored in a different notebook but the goal was to return recommendations that are varied and not just more of the same (which is what the content-base recommender would do). For example, if I like IPA beers I want to also explore non-IPA beers that may have similar charteristics but are different enough to be categorized as a different class of beer.
